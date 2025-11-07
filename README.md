@@ -1,2 +1,3 @@
 # first-demo
-This is my first code on git hub
+This is my first git repositoriies
+Author - shivam dhabake
